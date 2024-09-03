@@ -48,6 +48,12 @@ Boxplot c52 is in the top quartile which is higher than c39 that is in lower qua
 
 ## Inferential Results
 
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+  
+Top of c30 box is Q3 which is at 54.75. Bottom of c52 is in Q1 which is at 58. The bottom of Q1 is higher up than Q3 box which indicates c39 box. The bottom of the c52 box is higher up than the top of the c39 box.
+
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
 
