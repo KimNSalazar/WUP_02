@@ -66,3 +66,5 @@ t.test(VitC~Cult,data=veggy)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In conclusion, we first did the boxplot and analyzed the chart. We then compared both box c39 and c52. We concluded that c52 gives much more Vitamin because the numerical table showed us.
