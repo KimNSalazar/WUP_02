@@ -1,7 +1,7 @@
 ---
 title: "Cabbages"
-author: "Put your name here!"
-date: "put the date here"
+author: "Kimberly Salazar!"
+date: "Fall 2024"
 output:
   html_document:
     df_print: paged
@@ -36,6 +36,13 @@ veggy <- cabbages
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ### Numerical Descriptive Results
+
+
+```{r}
+boxplot(VitC~Cult,data=veggy)
+```
+Boxplot c52 is in the top quartile which is higher than c39 that is in lower quartile. 
+
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
